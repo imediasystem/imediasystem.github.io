@@ -13,6 +13,10 @@ Website design for Computer Service company, emphasizing aesthetic design and ea
 ![jQuery](https://img.shields.io/badge/jquery-brown.svg?style=for-the-badge&logo=jquery&logoColor=%23F7DF1E)
 &nbsp;
 
+## 💿 Installation
+Some projects uses [node](https://nodejs.org/en/) and [npm](https://www.npmjs.com/). Having them installed, type into the terminal: `npm i`.
+&nbsp;
+
 ## 📝 Feel free to contact me
 Write sth nice ;) Find me on [Linkedin](https://www.linkedin.com/company/imedia-system/about/?viewAsMember=true) ↗️ or [Facebook](https://www.facebook.com/profile.php?id=61577832340228) ↗️
 &nbsp;
